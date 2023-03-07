@@ -47,3 +47,9 @@ npm start
 ```
 
 ## Configure Google Cloud
+
+
+## Reference
+
+https://getbetterdevops.io/google-cloud-functions-with-terraform/
+
